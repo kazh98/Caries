@@ -1,0 +1,11 @@
+@title (Caries);
+@section (What is this?);
+This is a sample document for Caries.
+
+Empty line means a separate between paragraphs.
+
+@section (Sample Code);
+@? (for-each (lambda (k);
+@?= k;
+@? ) (iota 10 1 1));
+
